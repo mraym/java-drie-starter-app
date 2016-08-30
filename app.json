@@ -1,6 +1,6 @@
 {
-  "name": "Start on Heroku: Java",
-  "description": "A barebones Java app, which can easily be deployed to Heroku.",
+  "name": "Start on Drie: Java",
+  "description": "A barebones Java app, which can easily be deployed to Drie.",
   "image": "heroku/java",
   "addons": [ "heroku-postgresql" ]
 }
