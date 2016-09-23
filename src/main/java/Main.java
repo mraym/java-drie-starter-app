@@ -21,6 +21,7 @@ public class Main {
     staticFileLocation("/public");
 
     get("/hello", (req, res) -> "Hello World");
+    get("/really/really/really/lomg/path/integration/test", (req, res) -> "Hello World");
 
     get("/say-hello-drie", (request, response) -> {
       Map<String, String> messageMap = new HashMap<String,String>();
