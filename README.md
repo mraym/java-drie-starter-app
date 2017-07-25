@@ -1,4 +1,4 @@
-# java-drie-starter-app
+# java-drie-starter-app 1
 
 A barebones Java app, which can easily be deployed to drie.
 
